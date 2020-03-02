@@ -24,6 +24,12 @@ yazmaniz gereklidir.
 
 ================
 
+Bunlari yapdigdan sonra konsola girib 
+$npm run
+Yazin
+===================
+
 Umarim Size Yardimci olmusumdur
 
 ======================
+ 
