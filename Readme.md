@@ -24,6 +24,6 @@ yazmaniz gereklidir.
 
 ================
 
-Unarim Size Yardimci olmusumdur
+Umarim Size Yardimci olmusumdur
 
 ======================
