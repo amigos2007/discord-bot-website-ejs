@@ -18,7 +18,7 @@ Açdigimiz express-in konsoluna girib
 
 $npm i ejs
 
-$npm express
+$npm i express
 
 yazmaniz gereklidir.
 
